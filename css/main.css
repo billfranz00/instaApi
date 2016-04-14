@@ -1,0 +1,51 @@
+html {
+  padding: 0;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  padding-right: 0;
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+  background-color: pink;
+}
+
+div h1 {
+	color: blue;
+	font-family: Verdana;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+form {
+	text-align: left;
+	margin-top: 50px;
+}
+
+form button {
+	margin-top: 5px;
+}
+
+.imaage {
+	height: 75%;
+	width: 75%;
+	margin-left: 10%;
+}
+
+.myImages {
+	height: 70%;
+	width: 70%;
+	margin: 10px 15% 0 15%;
+}
+
+.divvies {
+	margin-top: 20px;
+}
+
+#button2 {
+	margin-left: 35%;
+}
